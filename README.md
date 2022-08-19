@@ -4,24 +4,36 @@
 - 🌱 I’m currently learning Python and Java
 - 😄 Pronouns: he/him
 
-##
 
- <div style="display: inline" align="center"><br>
- <div style="display: inline_block" >
-  <a href="https://github.com/Thauler">
-  <img height="140px" align="right" width="43%" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thauler&layout=compact&langs_count=7&theme=codeSTACKr&locale=pt-br"/>
-  </a>
-</div>
+## 
+
+
+ <div style="display: inline" align="center">
+  <div style="display: inline_block" >
+    <a href="https://github.com/Thauler">
+    <img height="140px" align="right" width="43%" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thauler&layout=compact&langs_count=7&theme=codeSTACKr&locale=pt-br"/>
+    </a>
+  </div>
   
- <div style="display: inline_block" >
-  <a href="https://github.com/Thauler">
-  <img height="140px" width="50%" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=Thauler&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
-  </a>
-</div>  
+  <div style="display: inline_block" >
+    <a href="https://github.com/Thauler">
+    <img height="140px" width="50%" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=Thauler&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
+    </a>
+  </div>  
 </div> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br />
 
-<div style="display: inline_block"><br>
+
+## Stacks
+
+
+<div style="display: inline_block">
 
   <img align="center" alt="Javascript-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -69,7 +81,7 @@
 
 </div>
 	
-##
+## Contacts
 
 <div> 
 
