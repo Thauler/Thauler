@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B%2C+I'm+Thauler+Mayrink++++++++++++)](https://git.io/typing-svg)
 
-- 🔭 I’m currently studying on Trybe
-- 🌱 I’m currently learning Python and Java
+- 🔭 I’m currently Working on Fiocruz
+- 🌱 I’m currently learning PHP and Java
 - 😄 Pronouns: he/him
 
 
@@ -46,7 +46,7 @@
   
   <div style="display: inline_block">
     <h2>Secondary languages:<h2>
-    <img align="center" alt="Python-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img align="center" alt="PHP-icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Java-icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>
 
