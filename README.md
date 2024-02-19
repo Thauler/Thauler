@@ -46,7 +46,6 @@
   <div style="display: inline_block">
     <h2>Secondary languages:<h2>
     <img align="center" alt="Javascript-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="PHP-icon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </div>
 
   <div style="display: inline_block">
