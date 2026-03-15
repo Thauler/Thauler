@@ -1,6 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B%2C+I'm+Thauler+Mayrink++++++++++++)](https://git.io/typing-svg)
 
-- 🔭 I’m currently Working on Fiocruz
 - 🌱 I’m currently learning nextJS
 
 
